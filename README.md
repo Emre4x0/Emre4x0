@@ -10,7 +10,7 @@
 <img src="https://img.shields.io/badge/csharp%20-%23323330.svg?&style=for-the-badge&logo=csharp&logoColor=%23F7DF1E"/>
 <img src="https://img.shields.io/badge/Visual%20Basic%20-%23323330.svg?&style=for-the-badge&logo=visualstudio&logoColor=%23F7DF1E"/>
 <img src="https://img.shields.io/badge/HTML%20-%23323330.svg?&style=for-the-badge&logo=html5&logoColor=%23F7DF1E"/>
-<img src=https://img.shields.io/badge/CSS%20-%23323330.svg?&style=for-the-badge&logo=css3&logoColor=%23F7DF1E"/>
+<img src="https://img.shields.io/badge/CSS%20-%23323330.svg?&style=for-the-badge&logo=css3&logoColor=%23F7DF1E"/>
 </div>
 
 ## You Can Contact Me
