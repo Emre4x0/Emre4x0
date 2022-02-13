@@ -25,5 +25,5 @@
    <a href="https://discord.com/users/538846533123309584" target"blank_">
    <img src="https://img.shields.io/badge/discord%20-111111.svg?&style=for-the-badge&logo=discord&logoColor=white"></a>
    <a href="https://github.com/EnesEmreMercan" target"blank_"><img src="https://img.shields.io/badge/GitHub%20-111111.svg?&style=for-the-badge&logo=github&logoColor=white"></a>
-     <p align="left"> <img src="https://komarev.com/ghpvc/?username=enesemremercan&label=Profile%20views&color=0e75b6&style=flat" alt="ceonnn" /> </p> 
+     <p align="left"> <img src="https://komarev.com/ghpvc/?username=enesemremercan&label=Profile%20views&color=0e75b6&style=flat" alt="Emre" /> </p> 
 <!--<a href="https://discord.gg/dWgGmkK8z9" target"blank_"><img src="https://img.shields.io/discord/schwesta?style=for-the-badge&color=7289da&label=Schwesta&logo=discord%22%3E</a>-->
