@@ -16,7 +16,7 @@
 ## You Can Contact Me
 
 <div align="center">
-<img src="https://img.shields.io/badge/emre@blurplesozluk.com%20-%23323330.svg?&style=for-the-badge&logo=gmail&logoColor=%23F7DF1E"/> 
+<img src="https://img.shields.io/badge/emre@kediler.xyz%20-%23323330.svg?&style=for-the-badge&logo=gmail&logoColor=%23F7DF1E"/> 
 
 </div>
 
