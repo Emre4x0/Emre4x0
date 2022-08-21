@@ -4,4 +4,4 @@
 </div>
 <br>
 <br>
-<img width="1920" height="960" src="https://cdn.discordapp.com/attachments/906301763764764743/1010951093494227015/AboutMe.png">
+<img height="1920" width="960"  src="https://cdn.discordapp.com/attachments/906301763764764743/1010951093494227015/AboutMe.png">
