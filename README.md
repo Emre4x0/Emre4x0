@@ -4,4 +4,10 @@
 </div>
 <br>
 <br>
-<img src="https://cdn.discordapp.com/attachments/813139533183975425/1014616029785231478/GitHubBackground.png">
+
+<img src="https://github.com/Emre4x0/Emre4x0/blob/main/media/Background.png?raw=true">
+<p align="center">
+   <a href="https://discord.com/users/538846533123309584" target"blank_"><img src="https://img.shields.io/badge/discord%20-111111.svg?&style=for-the-badge&logo=discord&logoColor=white"></a>
+   <a href="https://www.youtube.com/channel/Emre4x0" target"blank_"><img src="https://img.shields.io/badge/youtube%20-111111.svg?&style=for-the-badge&logo=youtube&logoColor=white"></a>
+   <a href="https://github.com/emre4x0" target"blank_"><img src="https://img.shields.io/badge/GitHub%20-111111.svg?&style=for-the-badge&logo=github&logoColor=white"></a>
+  
