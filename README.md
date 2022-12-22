@@ -15,4 +15,4 @@
    <a href="https://github.com/emre4x0" target"blank_"><img src="https://img.shields.io/badge/GitHub%20-111111.svg?&style=for-the-badge&logo=github&logoColor=white"></a>
   </p>
   
-<img src="https://github.com/Emre4x0/Emre4x0/blob/main/media/Background.png?raw=true">
+<img src="https://github.com/Emre4x0/Emre4x0/blob/main/image/Background.png?raw=true">
