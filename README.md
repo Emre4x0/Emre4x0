@@ -6,7 +6,7 @@
 <br>
 
 <p align="center">
-  <a href="https://enesemre.com.tr" target"blank_"><img src="https://img.shields.io/badge/contact@enesemre.com.tr%20-111111.svg?&style=for-the-badge&logo=gmail&logoColor=white"></a>
+  <a href="mailto:contact@enesemre.com.tr" target"blank_"><img src="https://img.shields.io/badge/contact@enesemre.com.tr%20-111111.svg?&style=for-the-badge&logo=gmail&logoColor=white"></a>
 </p>
 
 <p align="center">
