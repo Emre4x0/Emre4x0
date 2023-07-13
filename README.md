@@ -1,5 +1,5 @@
-![](https://komarev.com/ghpvc/?username=emre4x0)
 <div align="center">
+    ![](https://komarev.com/ghpvc/?username=emre4x0)
     <a href="https://discord.com/users/538846533123309584" title="Discord Account"><img src="https://lanyard-profile-readme.vercel.app/api/538846533123309584"></a>
 </div>
 <br>
